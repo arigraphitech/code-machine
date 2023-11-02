@@ -10,6 +10,14 @@ header {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 1rem;
 }
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
 main {
     display: flex;
     justify-content: space-around;

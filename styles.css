@@ -11,30 +11,33 @@ body {
     color: #333;
 }
 
-header {
-    background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 1rem;
+nav {
+    display: flex; /* Pour aligner les éléments horizontalement */
+    justify-content: space-between; /* Pour pousser le logo et le menu aux coins */
+    align-items: center; /* Pour aligner verticalement les éléments */
 }
 
-nav ul {
-    list-style: none;
-    display: flex;
-    list-mb: 20px;
-li-mb: 10px;
-li-pl: 17px;
+.logo img {
+    width: 50px; /* Réglez la largeur de votre logo */
+    height: auto;
 }
 
-nav li {
-    margin-right: 20px;
-    text-align:center;
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
-nav a {
+.menu li {
+    display: inline; /* Pour afficher les éléments de menu en ligne */
+    margin-right: 20px; /* Espacement entre les éléments du menu */
+}
+
+.menu li a {
     text-decoration: none;
-    color: #333;
-    font-weight: bold;
+    color: #fff; /* Couleur du texte des liens */
 }
+
 
 /* Styles de la section hero */
 .hero {
@@ -98,6 +101,4 @@ footer {
 h2,p{    text-align:left;
     color : black;
 }
-.centrer{
-align-items:center !important;
-}
+

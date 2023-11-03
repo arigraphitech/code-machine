@@ -95,10 +95,6 @@ footer {
     width: 100%; /* Ajuste la largeur pour occuper toute la largeur de la page */
     height: 310px; /* Ajuste la hauteur selon vos besoins */
 }
-#imagelogo{
- width: 0%; 
-    height: auto;
-}
 h2,p{    text-align:left;
     color : black;
 }

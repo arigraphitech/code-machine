@@ -31,12 +31,11 @@ nav {
 .menu {    display: flex;
     list-style-type: none;
     padding: 0;
-    margin: 0;
+    margin: auto;
         text-align: center; /* Centre le texte des titres d'onglet */
     justify-content: center; /* Centre horizontalement le contenu de la liste */
     align-items: center;
-    margin-right: 50%; /* Vous pouvez ajuster la valeur de la marge selon vos besoins */}
-
+      }
 .menu li {
     display: inline; /* Pour afficher les éléments de menu en ligne */
     margin-right: 20px; /* Espacement entre les éléments du menu */

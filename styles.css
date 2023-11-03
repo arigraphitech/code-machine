@@ -111,4 +111,13 @@ footer {
 h2,p{    text-align:left;
     color : black;
 }
-
+#bouttonarrondi {
+    button-mh:40px;
+    pri-cl: #9f8383;
+second-cl: #ffffff;
+pri-cl-hover: #4e4e4e;
+second-cl-hover: #ffffff;
+button-fs: 14px;
+button-fw: 600;
+button-pd-lr: 32px;
+}

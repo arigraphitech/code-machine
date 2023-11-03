@@ -34,7 +34,11 @@ nav {
     margin: 0;
         text-align: center; /* Centre le texte des titres d'onglet */
 }
-
+.menu-centre {
+    display: flex;
+    justify-content: center; /* Centre horizontalement le contenu de la liste */
+    align-items: center;
+}
 .menu li {
     display: inline; /* Pour afficher les éléments de menu en ligne */
     margin-right: 20px; /* Espacement entre les éléments du menu */

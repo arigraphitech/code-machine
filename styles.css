@@ -108,7 +108,7 @@ footer {
     width: 100%; /* Ajuste la largeur pour occuper toute la largeur de la page */
     height: 310px; /* Ajuste la hauteur selon vos besoins */
 }
-h2,p{    text-align:left;
+h2,p,h4{    text-align:left;
     color : black;
 }
 #bouttonarrondi {

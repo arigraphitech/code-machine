@@ -26,6 +26,7 @@ nav {
 .logo img {
     width: 50px; /* Réglez la largeur de votre logo */
     height: auto;
+    padding:20px;
 }
 
 .menu {    display: flex;

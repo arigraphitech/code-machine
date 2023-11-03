@@ -121,3 +121,9 @@ button-fs: 14px;
 button-fw: 600;
 button-pd-lr: 32px;
 }
+.conteneur {
+    background-image: url('premierdiv');
+    background-size: cover; /* Ajuste la taille de l'image pour remplir le conteneur */
+    background-position: left center; /* Positionne l'image à gauche du conteneur */
+    padding: 20px; /* Espace entre le texte et les bords du conteneur */
+}

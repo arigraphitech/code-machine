@@ -112,14 +112,19 @@ h2,p{    text-align:left;
     color : black;
 }
 #bouttonarrondi {
-    button-mh:40px;
-    pri-cl: #9f8383;
-second-cl: #ffffff;
-pri-cl-hover: #4e4e4e;
-second-cl-hover: #ffffff;
-button-fs: 14px;
-button-fw: 600;
-button-pd-lr: 32px;
+
+    background-color: #3498db; /* Couleur de fond du bouton */
+    border: none; /* Supprime la bordure du bouton */
+    border-radius: 25px; /* Arrondit les coins du bouton */
+    color: #fff; /* Couleur du texte du bouton */
+    padding: 15px 30px; /* Espacement intérieur du bouton (haut/bas, gauche/droite) */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 5px;
+    cursor: pointer;
+
 }
 .conteneur {
     background-image: url('premierdiv');

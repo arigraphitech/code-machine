@@ -32,6 +32,7 @@ nav {
     list-style-type: none;
     padding: 0;
     margin: 0;
+        text-align: center; /* Centre le texte des titres d'onglet */
 }
 
 .menu li {
@@ -42,6 +43,7 @@ nav {
 .menu li a {
     text-decoration: none;
     color:Black; /* Couleur du texte des liens */
+        font-weight: bold; /* Applique le style "gras" aux titres des onglets */
 }
 
 

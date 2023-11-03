@@ -63,6 +63,9 @@ nav a {
 
 .services ul {
     list-style: none;
+list-mb: 20px;
+li-mb: 10px;
+li-pl: 17px;
 }
 
 .services li {

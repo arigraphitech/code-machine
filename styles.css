@@ -10,13 +10,17 @@ body {
     background-color: #f2f2f2;
     color: #333;
 }
+header {
+    background-color: #333; /* Couleur de fond de la barre de navigation */
+    color: #fff; /* Couleur du texte */
+    padding: 10px 0; /* Espacement intérieur de la barre de navigation */
+}
 
 nav {
     display: flex; /* Pour aligner les éléments horizontalement */
     justify-content: space-between; /* Pour pousser le logo et le menu aux coins */
     align-items: center; /* Pour aligner verticalement les éléments */
 }
-
 .logo img {
     width: 50px; /* Réglez la largeur de votre logo */
     height: auto;

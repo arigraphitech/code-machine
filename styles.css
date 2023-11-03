@@ -90,10 +90,9 @@ footer {
     width: 100%; /* Ajuste la largeur pour occuper toute la largeur de la page */
     height: 310px; /* Ajuste la hauteur selon vos besoins */
 }
-#doree{
-color: rgb(194, 153, 48);
-font-weight: bold;
-text-align: center top;
+#imagelogo{
+ width: 0%; 
+    height: auto;
 }
 h2,p{    text-align:left;
     color : black;

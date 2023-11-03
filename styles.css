@@ -124,6 +124,7 @@ button-pd-lr: 32px;
 .conteneur {
     background-image: url('premierdiv');
     background-size: cover; /* Ajuste la taille de l'image pour remplir le conteneur */
+    width: 100%;
     background-position: left center; /* Positionne l'image à gauche du conteneur */
     padding: 20px; /* Espace entre le texte et les bords du conteneur */
 }

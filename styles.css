@@ -20,6 +20,8 @@ nav {
     display: flex; /* Pour aligner les éléments horizontalement */
     justify-content: space-between; /* Pour pousser le logo et le menu aux coins */
     align-items: center; /* Pour aligner verticalement les éléments */
+    background-color: White; /* Couleur de fond de la barre de navigation */
+
 }
 .logo img {
     width: 50px; /* Réglez la largeur de votre logo */
@@ -39,7 +41,7 @@ nav {
 
 .menu li a {
     text-decoration: none;
-    color: #fff; /* Couleur du texte des liens */
+    color:Black; /* Couleur du texte des liens */
 }
 
 

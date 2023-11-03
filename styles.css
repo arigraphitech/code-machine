@@ -7,11 +7,11 @@ body, h1, h2, p, ul, li {
 /* Styles généraux */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-color: White;
     color: #333;
 }
 header {
-    background-color: #333; /* Couleur de fond de la barre de navigation */
+    background-color: White; /* Couleur de fond de la barre de navigation */
     color: #fff; /* Couleur du texte */
     padding: 10px 0; /* Espacement intérieur de la barre de navigation */
 }

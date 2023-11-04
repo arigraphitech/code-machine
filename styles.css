@@ -132,23 +132,16 @@ h2,p,h4{    text-align:left;
     background-image: url('premierdiv');
     background-size: cover; /* Ajuste la taille de l'image pour remplir le conteneur */
     width: 100%;
-    height:100%;}
-
-#minicontact{
-    backgroung-color:#333333;
-     color: #CCCCCC;
-}
-
-
-
-
-
-
-
-
-
-
-    
+    height:100%;
     background-position:  center; /* Positionne l'image à gauche du conteneur */
     padding: 250px; /* Espace entre le texte et les bords du conteneur */
 }
+#minicontact{
+    backgroung-color:#E0E0E0;
+     color:#999999 ;
+}
+
+
+
+
+

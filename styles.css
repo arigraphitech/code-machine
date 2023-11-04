@@ -136,7 +136,7 @@ h2,p,h4{    text-align:left;
     background-position:  center; /* Positionne l'image à gauche du conteneur */
     padding: 250px; /* Espace entre le texte et les bords du conteneur */
 }
-#minicontact{
+#minicontact h4{
     backgroung-color:#E0E0E0;
      color:#999999 ;
 }

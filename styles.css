@@ -110,7 +110,7 @@ footer {
     height: 310px; /* Ajuste la hauteur selon vos besoins */
 }
 h2,p,h4{    text-align:left;
-    color : black;
+    color : #303D87;
 }
 #bouttonarrondi {
 
@@ -129,12 +129,12 @@ h2,p,h4{    text-align:left;
 }
 .conteneur {
     background-image: url('premierdiv');
-    background-size: auto; /* Ajuste la taille de l'image pour remplir le conteneur */
+    background-size:contain; /* Ajuste la taille de l'image pour remplir le conteneur */
     width: 100%;
     height:100%;
     background-position:  center; /* Positionne l'image à gauche du conteneur */
-    padding:12%;
-    margin: 20%; /* Espace entre le texte et les bords du conteneur */
+    padding-block:12%;
+    margin: 50%; /* Espace entre le texte et les bords du conteneur */
 }
 ..minicontact{
     tb-background:#E0E0E0;

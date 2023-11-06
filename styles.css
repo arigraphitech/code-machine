@@ -114,7 +114,7 @@ h2,p,h4{    text-align:left;
 }
 #bouttonarrondi {
 
-    background-color: SaddleBrown; /* Couleur de fond du bouton */
+    background-color: lighten(Beige, 20%); /* Couleur de fond du bouton */
     border: none; /* Supprime la bordure du bouton */
     border-radius: 25px; /* Arrondit les coins du bouton */
     color: #fff; /* Couleur du texte du bouton */

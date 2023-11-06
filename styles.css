@@ -129,10 +129,11 @@ h2,p,h4{    text-align:left;
 }
 .conteneur {
     background-image: url('premierdiv');
-    background-size: cover; /* Ajuste la taille de l'image pour remplir le conteneur */
+    background-size: auto; /* Ajuste la taille de l'image pour remplir le conteneur */
     width: 100%;
     height:100%;
     background-position:  center; /* Positionne l'image à gauche du conteneur */
+    padding:12%;
     margin: 20%; /* Espace entre le texte et les bords du conteneur */
 }
 ..minicontact{

@@ -134,7 +134,7 @@ h2,p,h4{    text-align:left;
     height:100%;
     background-position:  center; /* Positionne l'image à gauche du conteneur */
     padding-block:12%;
-    margin: 50%; /* Espace entre le texte et les bords du conteneur */
+    text-allign:center;
 }
 ..minicontact{
     tb-background:#E0E0E0;

@@ -130,10 +130,10 @@ h2,p,h4{    text-align:left;
 .conteneur {
     background-image: url('premierdiv');
     background-size: cover; /* Ajuste la taille de l'image pour remplir le conteneur */
-    width: 100%;
-    height:100%;
+    width: 80%;
+    height:80%;
     background-position:  center; /* Positionne l'image à gauche du conteneur */
-    padding: 250px; /* Espace entre le texte et les bords du conteneur */
+    padding: 20%; /* Espace entre le texte et les bords du conteneur */
 }
 ..minicontact{
     tb-background:#E0E0E0;

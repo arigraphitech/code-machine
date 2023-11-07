@@ -150,7 +150,7 @@ place-items: center;}
    display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 10px;
-  max-width:70%;
+  max-width:60%;
   margin: 0 auto;
 }
 
@@ -177,4 +177,19 @@ place-items: center;}
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+.bouton-sur-image {
+  position: absolute;
+  bottom: 10px; /* Positionnement au bas de l'image avec un espacement de 10px */
+  left: 50%; 
+  transform: translateX(-50%); /* Centrer horizontalement */
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  white-space: nowrap; /* Empêcher le bouton de se retourner sur plusieurs lignes */
+  max-width: 90%; /* Limiter la largeur du bouton pour éviter qu'il ne dépasse de l'image */
 }

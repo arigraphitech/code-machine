@@ -204,14 +204,14 @@ place-items: center;}
 }
 
 #image2{
-     bottom: -15%; /* Positionnement au bas de l'image avec un espacement de 10px */
-  left: 55%; 
+     bottom: -17%; /* Positionnement au bas de l'image avec un espacement de 10px */
+  left: 60%; 
 }
 #image3{
-     bottom: -15%; /* Positionnement au bas de l'image avec un espacement de 10px */
-  left: 65%; 
+     bottom: -17%; /* Positionnement au bas de l'image avec un espacement de 10px */
+  left: 70%; 
 }
 #image4{
      bottom: -50%; /* Positionnement au bas de l'image avec un espacement de 10px */
-  left: 75%; 
+  left: 65%; 
 }

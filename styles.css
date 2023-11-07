@@ -170,3 +170,11 @@ place-items: center;}
     grid-column: 3 / span 2; /* La quatrième photo est dans la 1ère colonne */
   grid-row: 2 / span 1; 
 }
+.cachet img,
+.cire img,
+.autocolant img,
+.cuire img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

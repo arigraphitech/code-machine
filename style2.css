@@ -4,9 +4,10 @@
 /* Styles de base */
 body {
     line-height: 1.6;
-    color:saddlebrown;
+    color:saddleBrown;
     font-family: var(--font-family-3); 
     font-weight: 400;
+        background-Color:rgb(195, 180, 140);
 }
 header {
     background-color: #fff;

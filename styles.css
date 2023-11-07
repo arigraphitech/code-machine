@@ -6,7 +6,9 @@ body, h1, h2, p, ul, li {
 
 /* Styles généraux */
 body {
-font-family: var(--font-family-3);    color: #333;
+font-family: var(--font-family-3); 
+    font-weight: 400;
+    color: #333;
 }
 header {
     background-color: White; /* Couleur de fond de la barre de navigation */

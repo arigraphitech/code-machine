@@ -180,7 +180,7 @@ place-items: center;}
 }
 .bouton-sur-image {
   position: absolute;
-  bottom: -195%; /* Positionnement au bas de l'image avec un espacement de 10px */
+  bottom: -50%; /* Positionnement au bas de l'image avec un espacement de 10px */
   left: 35%; 
   transform: translateX(-50%); /* Centrer horizontalement */
   background-color:  rgb(195, 180, 140);

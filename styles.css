@@ -215,3 +215,7 @@ place-items: center;}
      bottom: -50%; /* Positionnement au bas de l'image avec un espacement de 10px */
   left: 65%; 
 }
+.graphitechtxt{
+    margin-left:20%;
+    background-Color:rgb(195, 180, 140);
+}

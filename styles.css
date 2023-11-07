@@ -216,6 +216,8 @@ place-items: center;}
   left: 65%; 
 }
 .graphitechtxt{
-    margin-left:20%;
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:5%;
     background-Color:rgb(195, 180, 140);
 }

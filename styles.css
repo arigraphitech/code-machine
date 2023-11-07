@@ -180,8 +180,7 @@ place-items: center;}
 }
 .bouton-sur-image {
   position: absolute;
-  bottom: -50%; /* Positionnement au bas de l'image avec un espacement de 10px */
-  left: 35%; 
+ 
   transform: translateX(-50%); /* Centrer horizontalement */
   background-color:  rgb(195, 180, 140);
   color: #fff;
@@ -197,5 +196,20 @@ place-items: center;}
     font-size: 16px;
     margin: 10px 5px;
 }
-   
+#image1{
+     bottom: -50%; /* Positionnement au bas de l'image avec un espacement de 10px */
+  left: 35%; 
+}
 
+#image2{
+     bottom: -50%; /* Positionnement au bas de l'image avec un espacement de 10px */
+  left: 50%; 
+}
+#image3{
+     bottom: -50%; /* Positionnement au bas de l'image avec un espacement de 10px */
+  left: 60%; 
+}
+#image4{
+     bottom: -50%; /* Positionnement au bas de l'image avec un espacement de 10px */
+  left: 70%; 
+}

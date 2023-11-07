@@ -150,7 +150,7 @@ place-items: center;}
    display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 10px;
-  max-width:50%;
+  max-width:70%;
   margin: 0 auto;
 }
 

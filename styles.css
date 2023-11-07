@@ -183,13 +183,19 @@ place-items: center;}
   bottom: 10px; /* Positionnement au bas de l'image avec un espacement de 10px */
   left: 50%; 
   transform: translateX(-50%); /* Centrer horizontalement */
-  background-color: #007bff;
+  background-color:  rgb(195, 180, 140);
   color: #fff;
-  padding: 10px 20px;
+  padding: 15px 30px;
   text-decoration: none;
   border: none;
-  border-radius: 5px;
+  border-radius: 25px;
   cursor: pointer;
   white-space: nowrap; /* Empêcher le bouton de se retourner sur plusieurs lignes */
   max-width: 90%; /* Limiter la largeur du bouton pour éviter qu'il ne dépasse de l'image */
+     text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 5px;
 }
+   
+

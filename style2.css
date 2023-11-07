@@ -5,6 +5,8 @@
 body {
     line-height: 1.6;
     color:saddlebrown;
+    font-family: var(--font-family-3); 
+    font-weight: 400;
 }
 header {
     background-color: #fff;

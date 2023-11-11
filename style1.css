@@ -1,8 +1,8 @@
 
 main{
     margin-top: 0;
-    margin-left:5cm;
-    margin-right: 5cm;
+    margin-left:10cm;
+    margin-right: 10cm;
  
 
 }
@@ -44,7 +44,6 @@ nav a {
 .product img {
     max-width: 100%;
     height: 10cm;
-    margin-bottom: 10px;
 }
 
 .product h3 {

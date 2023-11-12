@@ -12,7 +12,9 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
 }
-
+table{
+    margin-top:5%;
+}
 header, nav, main {
     padding: 20px;
 }

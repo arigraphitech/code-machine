@@ -61,13 +61,11 @@ nav a {
 }
 
 /* Styles spécifiques aux sections */
-#section1 {
-    background-color: #f4f4f4;
+#section1 ,#section2{
+    background-color: rgb(195, 180, 140);
+    display:flex;
 }
 
-#section2 {
-    background-color: #e0e0e0;
-}
 header {
     background-color: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);

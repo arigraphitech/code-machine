@@ -64,6 +64,8 @@ nav a {
 #section1 ,#section2{
     background-color: rgb(195, 180, 140);
     display:flex;
+    margin-top:5%;
+    
 }
 
 header {

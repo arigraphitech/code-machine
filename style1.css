@@ -65,7 +65,7 @@ nav a {
 /* Styles spécifiques aux sections */
 #section1 ,#section2,#section3,#section4,#section5{
     background-color: rgb(195, 180, 140);
-    display:flex;
+    display:block;
     margin-top:5%;
     
 }

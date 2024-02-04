@@ -66,7 +66,8 @@ nav a {
 #section1 ,#section2,#section3,#section4,#section5{
     background-color: rgb(195, 180, 140);
     display:block;
-    margin-top:5%;
+    padding: 5%; /* Rembourrage de 5% autour de chaque section */
+    margin-top: 5%;
     
 }
 
